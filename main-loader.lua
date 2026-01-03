@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/xv3gasx/scripts/refs/heads/main/main-loader.lua
+loadstring(game:HttpGet("https://pastebin.com/raw/Kbk06vW2"))()
